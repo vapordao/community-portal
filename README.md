@@ -7,7 +7,7 @@
   </a>
 </p>
 <h1 align="center">
-  Dai-UI Gatsby Starter
+  Vai-UI Gatsby Starter
 </h1>
 <p align="center">
 <a href="https://github.com/gatsbyjs/gatsby-starter-default" target="_blank">Gatsby-Starter</a> + <a href="https://github.com/makerdao/dai-ui/" target="_blank">Dai-UI</a> = "A UI to Dai for!"
